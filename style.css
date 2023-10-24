@@ -69,7 +69,7 @@ html,body{
     .gift-img img {
         margin-top: 50px;
         border-radius: 10px;
-        width: 400px;
+        width: 350px;
     }
     .gift-img div{
         text-align: center;
@@ -98,7 +98,7 @@ html,body{
     .deadline-format {
         background-color: rgb(2, 41, 70);
         text-align: center;
-        margin-right: 15px;
+        margin-right: 10px;
         margin-bottom: 20px;
         padding: 20px;
         color: #fff;
